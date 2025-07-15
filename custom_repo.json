@@ -1,0 +1,12 @@
+{
+  "name": "Custom Mods Repo",
+  "mods": [
+    {
+      "name": "Grate Mod Menu",
+      "description": "A custom mod menu for Gorilla Tag.",
+      "version_number": "1.0.0",
+      "download_link": "https://drive.google.com/uc?export=download&id=1lBDr82Ie22_ts5vH5qKqXrm0qmGHMQ7j",
+      "dependencies": []
+    }
+  ]
+}
